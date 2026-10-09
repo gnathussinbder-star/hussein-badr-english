@@ -1,25 +1,28 @@
-# Hussein Badr English — Website (v0.1)
-
-Plain HTML/CSS/JS. No build step, no backend, no accounts. You own every file.
-
-## Structure
-- `index.html` – page shell
-- `css/style.css` – design (navy #1A237E, gold #FFC107)
-- `js/app.js` – pages, Arabic/English switch, library search & filters
-- `content/site.json` – ALL text, lessons, plans, FAQ, catalog, social links (Arabic + English)
-
-## Editing content (works on Android, free)
-Edit `content/site.json` in your GitHub repository using the GitHub website editor (pencil icon), then "Commit changes". Keep the quotes and commas exactly.
-- New lesson: copy one block inside `"resources"`, change values. `status`: `published` | `soon` | `draft`. A download/open button shows ONLY when status is `published` and `url` is filled.
-- Remove `"demo": true` once you've reviewed an item.
-
-## Publishing (free, no domain needed)
-Recommended: GitHub repo + free static host (e.g. GitHub Pages, Cloudflare Pages or Netlify). Check each service's current free terms before relying on it. Upload all files keeping the folder structure; the host gives you an https address. Every commit republishes the site.
-
-## Backup
-Download the repository as a ZIP regularly (GitHub: Code → Download ZIP).
-
-## Status
-- Works (code written, syntax-checked): navigation, AR/EN switch with RTL/LTR, mobile menu, library search/filters, FAQ, plans, catalog states.
-- NOT tested in a real browser or on devices. NOT deployed. NO CMS dashboard, forms, accounts, payments (future).
-- Notes: routes use `#/page`, so a sitemap.xml isn't useful until you pick a domain. Legal pages are drafts. Bio text is a placeholder.
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>حسين بدر لتعليم اللغة الإنجليزية | Hussein Badr English</title>
+<meta name="description" content="منصة تعليمية لتعلّم الإنجليزية من الصفر للناطقين بالعربية. Learn English from zero – for Arabic speakers.">
+<meta property="og:title" content="Hussein Badr English">
+<meta property="og:description" content="From Zero to English Mastery">
+<meta property="og:type" content="website">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Poppins:wght@400;600&display=swap">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<a class="skip" href="#main" id="skip">تخطَّ إلى المحتوى</a>
+<header class="hdr"><div class="wrap bar">
+<a class="brand" href="#/"><b>Hussein Badr</b> English</a>
+<button id="menuBtn" class="ico" aria-expanded="false" aria-controls="nav" aria-label="القائمة">☰</button>
+<nav id="nav" aria-label="Main"></nav>
+<button id="langBtn" class="btn sm ghost" type="button">EN</button>
+</div></header>
+<main id="main" tabindex="-1" class="wrap"></main>
+<footer class="ftr"><div class="wrap" id="footer"></div></footer>
+<noscript><p style="padding:1rem">يحتاج الموقع إلى JavaScript. / This site needs JavaScript.</p></noscript>
+<script src="./app.js"></script>
+</body></html>
