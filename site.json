@@ -1,0 +1,75 @@
+{
+"ui":{
+"nav":{"home":{"ar":"الرئيسية","en":"Home"},"start":{"ar":"ابدأ من الصفر","en":"Start from Zero"},"levels":{"ar":"المستويات","en":"Levels"},"skills":{"ar":"المهارات","en":"Skills"},"plans":{"ar":"خطط الدراسة","en":"Study Plans"},"library":{"ar":"المكتبة","en":"Library"},"catalog":{"ar":"الكتيّبات والدورات","en":"Booklets & Courses"},"about":{"ar":"عن المشروع","en":"About"},"contact":{"ar":"تواصل","en":"Contact"},"faq":{"ar":"الأسئلة الشائعة","en":"FAQ"}},
+"cta":{"ar":"ابدأ التعلّم","en":"Start Learning"},
+"skip":{"ar":"تخطَّ إلى المحتوى","en":"Skip to content"},
+"menu":{"ar":"القائمة","en":"Menu"},
+"heroText":{"ar":"منصة تعليمية للناطقين بالعربية، خصوصًا المتعلمين العراقيين والمبتدئين تمامًا. شرح واضح وخطوات مرتبة.","en":"An educational platform for Arabic speakers, especially Iraqi learners and absolute beginners. Clear explanations and ordered steps."},
+"search":{"ar":"ابحث…","en":"Search…"},"allLevels":{"ar":"كل المستويات","en":"All levels"},"allSkills":{"ar":"كل المهارات","en":"All skills"},
+"none":{"ar":"لا توجد نتائج مطابقة.","en":"No matching results."},
+"open":{"ar":"فتح","en":"Open"},"download":{"ar":"تنزيل","en":"Download"},
+"published":{"ar":"منشور","en":"Published"},"soon":{"ar":"قريبًا","en":"Coming soon"},"draft":{"ar":"قيد الإعداد","en":"In preparation"},"demo":{"ar":"مثال توضيحي","en":"Demo item"},
+"linkPending":{"ar":"الرابط قيد الإضافة","en":"Link pending"},"free":{"ar":"مجاني","en":"Free"},"paid":{"ar":"مدفوع","en":"Paid"},
+"demoNote":{"ar":"المحتوى التالي توضيحي لبيان البنية، وهو بانتظار مراجعة صاحب الموقع.","en":"The content below is demonstration material showing the structure, awaiting the owner's review."},
+"plansNote":{"ar":"هذه خطط تنظيمية للدراسة وليست ضمانًا للوصول إلى مستوى معيّن خلال مدة محددة.","en":"These are study-organisation plans, not a guarantee of reaching a level within a fixed time."},
+"day":{"ar":"يوم","en":"days"},
+"featured":{"ar":"مواد مختارة","en":"Featured resources"},"levelsH":{"ar":"مستويات اللغة","en":"Proficiency levels"},"skillsH":{"ar":"مهارات اللغة","en":"English skills"},"plansH":{"ar":"خطط 30 و60 و90 يومًا","en":"30, 60 and 90-day plans"},"faqH":{"ar":"الأسئلة الشائعة","en":"Frequently asked questions"},
+"contactH":{"ar":"التواصل والمتابعة","en":"Contact & social media"},"contactText":{"ar":"تابع المحتوى أو راسل عبر الحسابات التالية. لا يوجد حاليًا بريد إلكتروني أو نموذج مراسلة.","en":"Follow or message via the accounts below. There is currently no email address or contact form."},
+"footer":{"ar":"© حسين بدر لتعليم اللغة الإنجليزية","en":"© Hussein Badr English"},"external":{"ar":"(يفتح في نافذة جديدة)","en":"(opens in a new tab)"},"notfound":{"ar":"الصفحة غير موجودة.","en":"Page not found."},"error":{"ar":"تعذّر تحميل المحتوى. تأكد من تشغيل الموقع عبر خادم ويب.","en":"Could not load content. Make sure the site is served by a web server."}
+},
+"tagline":{"ar":"من الصفر إلى إتقان اللغة الإنجليزية","en":"From Zero to English Mastery"},
+"social":[
+{"label":"YouTube","url":"https://youtube.com/@husseinbadr1"},
+{"label":"Telegram","url":"https://t.me/HBM20091"},
+{"label":"TikTok","url":"https://www.tiktok.com/@hbm071"},
+{"label":"Facebook","url":"https://www.facebook.com/share/1BSBJ5JrEK/"}],
+"levels":[
+{"code":"A1","name":{"ar":"مبتدئ","en":"Beginner"},"desc":{"ar":"الحروف والأصوات والجمل البسيطة جدًا والتعريف بالنفس.","en":"Letters, sounds, very simple sentences and introducing yourself."}},
+{"code":"A2","name":{"ar":"أساسي","en":"Elementary"},"desc":{"ar":"مواقف يومية بسيطة وأزمنة أساسية ومفردات شائعة.","en":"Simple everyday situations, basic tenses and common vocabulary."}},
+{"code":"B1","name":{"ar":"متوسط","en":"Intermediate"},"desc":{"ar":"التعبير عن الآراء والتجارب وفهم الحديث الواضح.","en":"Expressing opinions and experiences, understanding clear speech."}},
+{"code":"B2","name":{"ar":"فوق المتوسط","en":"Upper intermediate"},"desc":{"ar":"نقاش أوسع وقراءة نصوص أطول وكتابة أدق.","en":"Wider discussion, longer texts and more accurate writing."}},
+{"code":"C1","name":{"ar":"متقدم","en":"Advanced"},"desc":{"ar":"استخدام مرن للغة في الدراسة والعمل والحياة.","en":"Flexible use of English for study, work and life."}}],
+"skills":[
+{"id":"grammar","name":{"ar":"القواعد","en":"Grammar"},"desc":{"ar":"بناء الجملة والأزمنة بشرح مبسّط.","en":"Sentence structure and tenses, simply explained."}},
+{"id":"vocabulary","name":{"ar":"المفردات","en":"Vocabulary"},"desc":{"ar":"قوائم كلمات مرتبة بالموضوع والمستوى.","en":"Word lists organised by topic and level."}},
+{"id":"pronunciation","name":{"ar":"النطق واللكنة","en":"Pronunciation"},"desc":{"ar":"أصوات اللغة وطريقة نطقها.","en":"English sounds and how to say them."}},
+{"id":"listening","name":{"ar":"الاستماع","en":"Listening"},"desc":{"ar":"تدريب الأذن على الإنجليزية الواقعية.","en":"Train your ear for real English."}},
+{"id":"speaking","name":{"ar":"المحادثة","en":"Speaking"},"desc":{"ar":"جمل وحوارات للتحدث بثقة.","en":"Phrases and dialogues for confident speaking."}},
+{"id":"reading","name":{"ar":"القراءة","en":"Reading"},"desc":{"ar":"نصوص مناسبة لكل مستوى.","en":"Texts suited to each level."}},
+{"id":"writing","name":{"ar":"الكتابة","en":"Writing"},"desc":{"ar":"من الجملة الأولى إلى الفقرة والرسالة.","en":"From the first sentence to paragraphs and letters."}}],
+"plans":[
+{"days":30,"title":{"ar":"خطة 30 يومًا: الأساس","en":"30-day plan: Foundations"},"steps":[
+{"ar":"الأسبوع 1: الحروف والأصوات وتحيات بسيطة.","en":"Week 1: letters, sounds and simple greetings."},
+{"ar":"الأسبوع 2: 100 كلمة شائعة وجمل قصيرة.","en":"Week 2: 100 common words and short sentences."},
+{"ar":"الأسبوع 3: المضارع البسيط وأسئلة بسيطة.","en":"Week 3: present simple and basic questions."},
+{"ar":"الأسبوع 4: مراجعة وتسجيل صوتك وأنت تتحدث.","en":"Week 4: review and record yourself speaking."}]},
+{"days":60,"title":{"ar":"خطة 60 يومًا: بناء العادة","en":"60-day plan: Building the habit"},"steps":[
+{"ar":"الأسابيع 1–4: خطة الـ30 يومًا.","en":"Weeks 1–4: the 30-day plan."},
+{"ar":"الأسابيع 5–6: الماضي البسيط والاستماع اليومي.","en":"Weeks 5–6: past simple and daily listening."},
+{"ar":"الأسابيع 7–8: قراءة نصوص قصيرة وكتابة فقرة.","en":"Weeks 7–8: short readings and a first paragraph."}]},
+{"days":90,"title":{"ar":"خطة 90 يومًا: الانطلاق","en":"90-day plan: Taking off"},"steps":[
+{"ar":"الأسابيع 1–8: خطة الـ60 يومًا.","en":"Weeks 1–8: the 60-day plan."},
+{"ar":"الأسابيع 9–10: المستقبل والمقارنات ومحادثات يومية.","en":"Weeks 9–10: future forms, comparisons, daily conversations."},
+{"ar":"الأسابيع 11–12: مشروع صغير: تقديم نفسك كتابةً وصوتًا.","en":"Weeks 11–12: mini project: introduce yourself in writing and speech."}]}],
+"resources":[
+{"slug":"alphabet-sounds","title":{"ar":"الأبجدية الإنجليزية وأصواتها","en":"The English alphabet and its sounds"},"desc":{"ar":"درس تمهيدي (مثال توضيحي).","en":"An introductory lesson (demo)."},"level":"A1","skill":"pronunciation","type":"lesson","status":"soon","demo":true,"url":""},
+{"slug":"present-simple","title":{"ar":"المضارع البسيط","en":"Present simple"},"desc":{"ar":"شرح مبسّط مع أمثلة (مثال توضيحي).","en":"A simple explanation with examples (demo)."},"level":"A1","skill":"grammar","type":"lesson","status":"draft","demo":true,"url":""},
+{"slug":"daily-words-1","title":{"ar":"كلمات اليوم الأولى","en":"First daily words"},"desc":{"ar":"قائمة مفردات أساسية (مثال توضيحي).","en":"A basic vocabulary list (demo)."},"level":"A1","skill":"vocabulary","type":"worksheet","status":"soon","demo":true,"url":""}],
+"catalog":[
+{"slug":"alphabet-booklet","title":{"ar":"كتيّب الأبجدية الإنجليزية","en":"English Alphabet Booklet"},"desc":{"ar":"كتيّب للمبتدئين. رابط التنزيل أو الشراء لم يُضَف بعد.","en":"A booklet for beginners. Download/purchase link not added yet."},"level":"A1","price":"free","status":"draft","url":""}],
+"faq":[
+{"q":{"ar":"هل الموقع مناسب لمن لا يعرف أي شيء؟","en":"Is this suitable for absolute beginners?"},"a":{"ar":"نعم، صفحة «ابدأ من الصفر» مخصصة لذلك.","en":"Yes, the “Start from Zero” page is made for that."}},
+{"q":{"ar":"هل ستحصل على الطلاقة خلال مدة محددة؟","en":"Will I become fluent in a set time?"},"a":{"ar":"لا نعد بنتيجة مضمونة؛ التقدم يعتمد على الاستمرار والتدريب.","en":"We promise no guaranteed result; progress depends on consistent practice."}},
+{"q":{"ar":"هل المواد مجانية؟","en":"Is everything free?"},"a":{"ar":"كل مادة تُعرض مع وسم «مجاني» أو «مدفوع». لا توجد مدفوعات في الموقع حاليًا.","en":"Each item is labelled free or paid. The site has no payments at the moment."}}],
+"pages":{
+"start":{"title":{"ar":"ابدأ من الصفر","en":"Start from Zero"},"paras":[
+{"ar":"1) تعلّم الأبجدية وأصواتها. 2) احفظ كلمات يومية قليلة. 3) تعلّم جملًا بسيطة. 4) استمع كل يوم. 5) كرّر وراجع.","en":"1) Learn the alphabet and its sounds. 2) Memorise a few daily words. 3) Learn simple sentences. 4) Listen every day. 5) Repeat and review."},
+{"ar":"عادات مفيدة: 20 دقيقة يوميًا أفضل من ساعتين مرة في الأسبوع. ابدأ بالمستوى A1 ثم انتقل تدريجيًا.","en":"Helpful habits: 20 minutes daily beats two hours once a week. Begin at A1 and move up gradually."}]},
+"about":{"title":{"ar":"عن المشروع","en":"About"},"paras":[
+{"ar":"«حسين بدر لتعليم اللغة الإنجليزية» مشروع تعليمي يساعد الناطقين بالعربية على تعلّم الإنجليزية واستخدامها.","en":"Hussein Badr English is an educational project helping Arabic speakers learn and use English."},
+{"ar":"[نص تعريفي بالمدرّس: بانتظار المعلومات من صاحب الموقع.]","en":"[Instructor bio: awaiting information from the site owner.]"}]},
+"privacy":{"title":{"ar":"سياسة الخصوصية (مسودة)","en":"Privacy Policy (draft)"},"paras":[
+{"ar":"مسودة تحتاج مراجعة قبل الاعتماد. هذا الموقع لا يجمع بيانات شخصية، ولا يستخدم حسابات أو نماذج أو تحليلات. يخزّن متصفحك اختيار اللغة فقط. تُحمَّل الخطوط من Google Fonts، وتفتح الروابط الخارجية مواقع أخرى لها سياساتها.","en":"Draft requiring review. This site collects no personal data and uses no accounts, forms or analytics. Your browser stores only your language choice. Fonts load from Google Fonts, and external links open other sites with their own policies."}]},
+"terms":{"title":{"ar":"الشروط (مسودة)","en":"Terms (draft)"},"paras":[
+{"ar":"مسودة تحتاج مراجعة قبل الاعتماد. المحتوى لأغراض تعليمية عامة ولا يضمن نتيجة محددة. حقوق المواد محفوظة لصاحب الموقع ما لم يُذكر خلاف ذلك.","en":"Draft requiring review. Content is for general educational use and guarantees no specific outcome. Materials are the owner's unless stated otherwise."}]}}
+}
